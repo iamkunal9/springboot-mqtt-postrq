@@ -1,0 +1,5 @@
+com\aiotico\ItoDemoApplication.class
+com\aiotico\MqttBeans.class
+com\aiotico\MqttGateway.class
+com\aiotico\controller\MqttController.class
+com\aiotico\MqttBeans$1.class

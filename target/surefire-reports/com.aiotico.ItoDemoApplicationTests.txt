@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.aiotico.ItoDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 20.445 s <<< FAILURE! - in com.aiotico.ItoDemoApplicationTests
+contextLoads  Time elapsed: 0.031 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalArgumentException: @MessagingGateway can only be specified on an interface
+
